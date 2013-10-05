@@ -6,7 +6,7 @@
     background-repeat: no-repeat;
   }
  @media screen and (max-width: 200px) {
-  svg {background-image: url(small.png);}
+  svg {background-image: url("small.png");}
  }
  @media screen and (min-width: 201px) and (max-width: 400px) {
   svg {background-image: url(medium.png);}
